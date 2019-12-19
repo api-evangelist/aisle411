@@ -1,0 +1,68 @@
+{
+    "name": "Aisle411",
+    "description": "Aisle411: the power of indoor navigation & augmented reality. Maximize customer engagement, optimize product placement and increase revenue.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/324-aisle411.jpg",
+    "tags": [
+        "api provider",
+        "coupons",
+        "have api",
+        "indoor",
+        "no api definition",
+        "shopping"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/aisle411\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Aisle411",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/324-aisle411.jpg",
+            "humanURL": "http:\/\/aisle411.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/aisle411-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/crater.aisle411.com\/webservices2\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/aisle411"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/aisle411"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developers.aisle411.com\/"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.aisle411.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "info@aisle411.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/aisle411"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/aisle411.com"
+        }
+    ]
+}
